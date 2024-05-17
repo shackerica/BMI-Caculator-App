@@ -7,4 +7,4 @@ The program prompts the user to input their weight and height, and then calculat
 
 This program is helpful for individuals who want to monitor their weight and overall health. By providing a quick and easy way to calculate BMI, users can gain insights into their weight status and make informed decisions about their health and lifestyle.
 
-To view the functioning app, follow this [Replit project](https://replit.com/@shackerica/BMI-Caculator-App).
+To view the functioning program, follow this [Replit project](https://replit.com/@shackerica/BMI-Caculator-App).
